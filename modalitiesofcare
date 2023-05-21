@@ -1,0 +1,25 @@
+Sure, here's a competitive analysis grid based on the information:
+
+| Method/Aspect                         | In-Person Visit | Video Telemedicine Visit | Telephone Telemedicine Visit | Text-based Telemedicine with Photo Attachments |
+| ------------------------------------- | --------------- | ------------------------ | ---------------------------- | ---------------------------------------------- |
+| Detailed examination possible         | Yes             | Limited                  | No                           | No                                            |
+| Diagnostic testing                    | Yes             | No                       | No                           | No                                            |
+| Personal connection                   | High            | Moderate                 | Low                          | Low                                           |
+| Complex condition management          | High            | Limited                  | Limited                      | Limited                                       |
+| Time commitment                       | High            | Low                      | Low                          | Low                                           |
+| Risk of infection exposure            | Yes             | No                       | No                           | No                                            |
+| Convenience                           | Low             | High                     | High                         | High                                          |
+| Accessibility                         | Variable        | High                     | High                         | High                                          |
+| Technology requirement                | No              | Yes                      | Yes (phone)                  | Yes (device for text/photo)                   |
+| Privacy Issues                        | Low             | Possible                 | Possible                     | Possible                                      |
+| Scope of service                      | Broad           | Broad (Limited by lack of physical exam) | Limited                      | Limited                                       |
+| Overhead costs                        | High            | Lower                    | Lowest                       | Lowest                                        |
+| Travel costs                          | Yes             | No                       | No                           | No                                            |
+| Time costs                            | High            | Lower                    | Lower                        | Lowest                                        |
+| Setup costs                           | High (for office space) | Yes (for platform)       | Minimal                      | Minimal                                       |
+| Follow-ups required                   | Variable        | Possible                 | Likely                       | Likely                                        |
+| Visual examination                    | Yes             | Yes                      | No                           | Yes (limited to photos)                       |
+| Written record of conversation        | No              | Yes                      | No                           | Yes                                           |
+| Cost-effective for complex conditions | Yes             | Limited                  | No                           | No                                            |
+
+The choice between these options should be driven by a combination of factors including the nature of the medical issue, the patient's and provider's resources and preferences, and the infrastructure available. It's also important to remember that these methods can complement each other in a holistic healthcare delivery model.
